@@ -1,9 +1,9 @@
-base url:
-remote_theme: h01000110/windows-95
+
+remote_theme : h01000110/windows-95
 
 permalink: /:year:month:day/:title
 url: "http://oss05.github.io" #Your url here
-baseurl: /project
+baseurl: "" #/project
 
 # variables
 name: Your Site Name
