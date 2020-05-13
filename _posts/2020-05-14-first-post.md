@@ -1,16 +1,11 @@
 ---
-title: Welcome
-tags: TeXt
+layout: default
+title: "Lorem Ipsum"
+tags: tag1 tag2 tag3 tag4
 ---
 
-If you see this page, that means you have setup your site. enjoy! :ghost: :ghost: :ghost:
+## Lorem Ipsum
 
-You may want to [config the site](https://tianqi.name/jekyll-TeXt-theme/docs/en/configuration) or [writing a post](https://tianqi.name/jekyll-TeXt-theme/docs/en/writing-posts) next. Please feel free to [create an issue](https://github.com/kitian616/jekyll-TeXt-theme/issues) or [send me email](mailto:kitian616@outlook.com) if you have any questions.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin enim nibh, suscipit sed rhoncus quis, blandit quis sapien. Ut congue pharetra rhoncus. Praesent finibus vitae urna quis cursus. Proin mollis elementum sapien, vitae viverra magna tincidunt a. Nullam tincidunt interdum dui ut ultricies. Maecenas pellentesque tellus ac mauris faucibus elementum. Nulla quis risus aliquam, pharetra neque non, dapibus augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Cras ullamcorper lacinia augue in placerat. Suspendisse lacinia massa id blandit varius. Mauris ultricies ultricies bibendum.  
 
-<!--more-->
-
----
-
-If you like TeXt, don't forget to give me a star. :star2:
-
-[![Star This Project](https://img.shields.io/github/stars/kitian616/jekyll-TeXt-theme.svg?label=Stars&style=social)](https://github.com/kitian616/jekyll-TeXt-theme/)
+Mauris eu lectus fermentum leo dictum hendrerit. Maecenas vel leo sit amet quam laoreet consequat vitae nec eros. Curabitur eleifend eu orci quis consectetur. Sed pretium tortor at consequat tincidunt. Nullam a tellus faucibus, dapibus tortor eget, ullamcorper metus. Aenean at aliquet metus. Aenean molestie metus rutrum, tincidunt nulla quis, tincidunt lorem. Morbi diam sem, rutrum vitae convallis eget, dignissim semper lacus. Curabitur ipsum diam, tincidunt in hendrerit sit amet, luctus vitae dui. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
