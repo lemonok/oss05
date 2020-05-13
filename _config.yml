@@ -36,7 +36,7 @@ timezone: # see https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for
 author:
   type      : # "person" (default), "organization"
   name      : Your Name
-  url       : "http://oss05.github.io/"
+  url       : 
   avatar    : # path or url of avatar image (square)
   bio       : I am an amazing person.
   email     :
@@ -53,7 +53,7 @@ author:
   npm       : # "user_name" the last part of your profile url, e.g. https://www.npmjs.com/~user_name
   
  baseurl:
- remote_theme: TianQi/TeXt
+ remote_theme: Tian Qi/TeXt
 
 
 ## => GitHub Repository (if the site is hosted by GitHub)
