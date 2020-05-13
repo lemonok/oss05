@@ -13,7 +13,7 @@
 
   
  baseurl :
- remote_theme : Tian Qi/TeXt
+ remote_theme : tianqi/TeXt
 
 ## => Site Settings
 ##############################
